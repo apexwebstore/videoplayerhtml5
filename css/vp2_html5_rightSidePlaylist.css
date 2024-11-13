@@ -325,7 +325,7 @@ skins available:
 
 .vp2_html5_rightSidePlaylist.futuristicElectricBlue .thumbsHolderWrapper {
 	position:absolute;
-	background:url(images/universalWhite/empty.png);
+	background:url(https://apexwebstore.github.io/videoplayerhtml5/universalWhite/empty.png);
 	height:100%;
 	overflow:hidden;
 }
@@ -698,7 +698,7 @@ skins available:
 
 .vp2_html5_rightSidePlaylist.futuristicChrome .thumbsHolderWrapper {
 	position:absolute;
-	background:url(images/universalWhite/empty.png);
+	background:url(https://apexwebstore.github.io/videoplayerhtml5/universalWhite/empty.png);
 	height:100%;
 	overflow:hidden;
 }
@@ -1075,7 +1075,7 @@ skins available:
 
 .vp2_html5_rightSidePlaylist.universalBlack .thumbsHolderWrapper {
 	position:absolute;
-	background:url(images/universalWhite/empty.png);
+	background:url(https://apexwebstore.github.io/videoplayerhtml5/universalWhite/empty.png);
 	height:100%;
 	overflow:hidden;
 }
@@ -1183,7 +1183,7 @@ skins available:
 	float: left;
 	clear: both;
 	width: 100%;
-	background:url(images/universalWhite/controllers_bg.png) 0 0 repeat-x;
+	background:url(https://apexwebstore.github.io/videoplayerhtml5/universalWhite/controllers_bg.png) 0 0 repeat-x;
 }
 
 
@@ -1195,10 +1195,10 @@ skins available:
 	width: 39px;
 	height: 20px;
 	margin:2px 0px 0px 0px;
-	background: url(images/universalWhite/rewind-off.png) no-repeat;
+	background: url(https://apexwebstore.github.io/videoplayerhtml5/universalWhite/rewind-off.png) no-repeat;
 }
 .vp2_html5_rightSidePlaylist.universalWhite .VideoRewind:hover {
-    background: url(images/universalWhite/rewind-on.png) no-repeat;
+    background: url(https://apexwebstore.github.io/videoplayerhtml5/universalWhite/rewind-on.png) no-repeat;
 }
 
 /* play */
@@ -1209,19 +1209,19 @@ skins available:
 	width: 47px;
 	height: 21px;
 	margin:1px 0px 0px 0px;
-	background: url(images/universalWhite/play-off.png) no-repeat;
+	background: url(https://apexwebstore.github.io/videoplayerhtml5/universalWhite/play-off.png) no-repeat;
 }
 .vp2_html5_rightSidePlaylist.universalWhite .VideoPlay:hover {
-    background: url(images/universalWhite/play-on.png) no-repeat;
+    background: url(https://apexwebstore.github.io/videoplayerhtml5/universalWhite/play-on.png) no-repeat;
 }
 /* pause */
 .vp2_html5_rightSidePlaylist.universalWhite .VideoPause {
 	width: 47px;
 	height: 21px;
-	background: url(images/universalWhite/pause-off.png) no-repeat;
+	background: url(https://apexwebstore.github.io/videoplayerhtml5/universalWhite/pause-off.png) no-repeat;
 }
 .vp2_html5_rightSidePlaylist.universalWhite .VideoPause:hover {
-	background: url(images/universalWhite/pause-on.png) no-repeat;
+	background: url(https://apexwebstore.github.io/videoplayerhtml5/universalWhite/pause-on.png) no-repeat;
 }
 
 
@@ -1277,10 +1277,10 @@ skins available:
 	right: 5px;
 	width: 27px;
 	height: 18px;
-	background:url(images/universalWhite/fullscreen-off.png) 0 0 no-repeat;
+	background:url(https://apexwebstore.github.io/videoplayerhtml5/universalWhite/fullscreen-off.png) 0 0 no-repeat;
 }
 .vp2_html5_rightSidePlaylist.universalWhite .VideoFullScreen:hover {
-	background:url(images/universalWhite/fullscreen-on.png) 0 0 no-repeat;
+	background:url(https://apexwebstore.github.io/videoplayerhtml5/universalWhite/fullscreen-on.png) 0 0 no-repeat;
 }
 .vp2_html5_rightSidePlaylist.universalWhite .VideoFullScreenIn {
 	float:left;
@@ -1290,10 +1290,10 @@ skins available:
 	right: 5px;
 	width: 27px;
 	height: 18px;
-	background:url(images/universalWhite/fullscreen-in-off.png) 0 0 no-repeat;
+	background:url(https://apexwebstore.github.io/videoplayerhtml5/universalWhite/fullscreen-in-off.png) 0 0 no-repeat;
 }
 .vp2_html5_rightSidePlaylist.universalWhite .VideoFullScreenIn:hover {
-	background:url(images/universalWhite/fullscreen-in-on.png) 0 0 no-repeat;
+	background:url(https://apexwebstore.github.io/videoplayerhtml5/universalWhite/fullscreen-in-on.png) 0 0 no-repeat;
 }
 
 
@@ -1351,11 +1351,11 @@ skins available:
 	display: block;
 	width: 23px;
 	height: 18px;
-	background: url(images/universalWhite/volume-off.png) no-repeat;
+	background: url(https://apexwebstore.github.io/videoplayerhtml5/universalWhite/volume-off.png) no-repeat;
 }
 
 .vp2_html5_rightSidePlaylist.universalWhite .VolumeButton:hover {
-	background: url(images/universalWhite/volume-on.png) no-repeat;
+	background: url(https://apexwebstore.github.io/videoplayerhtml5/universalWhite/volume-on.png) no-repeat;
 }
 
 .vp2_html5_rightSidePlaylist.universalWhite .VolumeButtonMute {
@@ -1365,10 +1365,10 @@ skins available:
 	display: block;
 	width: 23px;
 	height: 18px;
-	background: url(images/universalWhite/volumeMute-off.png) no-repeat;
+	background: url(https://apexwebstore.github.io/videoplayerhtml5/universalWhite/volumeMute-off.png) no-repeat;
 }
 .vp2_html5_rightSidePlaylist.universalWhite .VolumeButtonMute:hover {
-	background: url(images/universalWhite/volumeMute-on.png) no-repeat;
+	background: url(https://apexwebstore.github.io/videoplayerhtml5/universalWhite/volumeMute-on.png) no-repeat;
 }
 
 
@@ -1381,18 +1381,18 @@ skins available:
 	right:107px;
 	width: 25px;
 	height: 18px;
-	background: url(images/universalWhite/hide-playlist-off.png) no-repeat;
+	background: url(https://apexwebstore.github.io/videoplayerhtml5/universalWhite/hide-playlist-off.png) no-repeat;
 }
 .vp2_html5_rightSidePlaylist.universalWhite .VideoShowHidePlaylist:hover {
-    background: url(images/universalWhite/hide-playlist-on.png) no-repeat;
+    background: url(https://apexwebstore.github.io/videoplayerhtml5/universalWhite/hide-playlist-on.png) no-repeat;
 }
 
 .vp2_html5_rightSidePlaylist.universalWhite .VideoShowHidePlaylist_onlyShow {
-	background: url(images/universalWhite/show-playlist-off.png) no-repeat;
+	background: url(https://apexwebstore.github.io/videoplayerhtml5/universalWhite/show-playlist-off.png) no-repeat;
 }
 
 .vp2_html5_rightSidePlaylist.universalWhite .VideoShowHidePlaylist_onlyShow:hover {
-	background: url(images/universalWhite/show-playlist-on.png) no-repeat;
+	background: url(https://apexwebstore.github.io/videoplayerhtml5/universalWhite/show-playlist-on.png) no-repeat;
 }
 
 
@@ -1406,10 +1406,10 @@ skins available:
 	right:87px;
 	width: 25px;
 	height: 18px;
-	background: url(images/universalWhite/info-off.png) no-repeat;
+	background: url(https://apexwebstore.github.io/videoplayerhtml5/universalWhite/info-off.png) no-repeat;
 }
 .vp2_html5_rightSidePlaylist.universalWhite .VideoInfoBut:hover {
-    background: url(images/universalWhite/info-on.png) no-repeat;
+    background: url(https://apexwebstore.github.io/videoplayerhtml5/universalWhite/info-on.png) no-repeat;
 }
 .vp2_html5_rightSidePlaylist.universalWhite .VideoInfoBox {
 	display:none;
@@ -1418,7 +1418,7 @@ skins available:
 	bottom:21px;
 	height:110px;
 	overflow:hidden;
-	background:url(images/universalWhite/infoBox_bg.png) 0 0 repeat-x;
+	background:url(https://apexwebstore.github.io/videoplayerhtml5/universalWhite/infoBox_bg.png) 0 0 repeat-x;
 	padding:0 10px 10px 10px;
 	text-align:left;
 	overflow:auto;
@@ -1437,7 +1437,7 @@ skins available:
 
 .vp2_html5_rightSidePlaylist.universalWhite .thumbsHolderWrapper {
 	position:absolute;
-	background:url(images/universalWhite/empty.png);
+	background:url(https://apexwebstore.github.io/videoplayerhtml5/universalWhite/empty.png);
 	height:100%;
 	overflow:hidden;
 }
@@ -1452,7 +1452,7 @@ skins available:
 .vp2_html5_rightSidePlaylist.universalWhite .thumbsHolder_ThumbOFF {
 	display:block;
 	height:95px;
-	background:url(images/universalWhite/bgPlaylistUnit.png) repeat-x top left #f2f2f2;
+	background:url(https://apexwebstore.github.io/videoplayerhtml5/universalWhite/bgPlaylistUnit.png) repeat-x top left #f2f2f2;
 	cursor: pointer;
 	text-align:left;
 	line-height:1.4em;
@@ -1486,7 +1486,7 @@ skins available:
 }
 
 .vp2_html5_rightSidePlaylist.universalWhite .thumbsHolder_ThumbON {
-	background:url(images/universalWhite/bgPlaylistUnitOn.png) repeat-x top left #3b3b3b;
+	background:url(https://apexwebstore.github.io/videoplayerhtml5/universalWhite/bgPlaylistUnitOn.png) repeat-x top left #3b3b3b;
 }
 .vp2_html5_rightSidePlaylist.universalWhite .thumbsHolder_ThumbON .title {
 	color:#ff002a;
@@ -1503,8 +1503,8 @@ skins available:
 }
 
 .vp2_html5_rightSidePlaylist.universalWhite .slider-vertical.ui-slider { position: relative;}
-.vp2_html5_rightSidePlaylist.universalWhite .slider-vertical.ui-slider .ui-slider-handle { position: absolute; z-index: 2; width: 6px; height: 25px; cursor: pointer; background:url(images/universalWhite/scrollerFaceOFF.png) 0 0 no-repeat; }
-.vp2_html5_rightSidePlaylist.universalWhite .slider-vertical.ui-slider .ui-slider-handle:hover {  background:url(images/universalWhite/scrollerFaceON.png) 0 0 no-repeat; }
+.vp2_html5_rightSidePlaylist.universalWhite .slider-vertical.ui-slider .ui-slider-handle { position: absolute; z-index: 2; width: 6px; height: 25px; cursor: pointer; background:url(https://apexwebstore.github.io/videoplayerhtml5/universalWhite/scrollerFaceOFF.png) 0 0 no-repeat; }
+.vp2_html5_rightSidePlaylist.universalWhite .slider-vertical.ui-slider .ui-slider-handle:hover {  background:url(https://apexwebstore.github.io/videoplayerhtml5/universalWhite/scrollerFaceON.png) 0 0 no-repeat; }
 .vp2_html5_rightSidePlaylist.universalWhite .slider-vertical.ui-slider .ui-slider-range { position: absolute; z-index: 1; display: block; border: 0; }
 
 
